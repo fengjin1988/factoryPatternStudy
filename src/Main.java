@@ -10,5 +10,8 @@ public class Main {
 
         // 这是一个测试类代码，测试修改记录
         System.out.println("Hello Word");
+        System.out.println("你好，凤姐");
+
+        System.out.println("测试ctrl +z");
     }
 }
